@@ -1,0 +1,63 @@
+========================================================================
+PROJECT PROFILE: AURA GENIUS PRE-SCHOOL AND DAY CARE
+========================================================================
+
+1. OVERVIEW
+-----------
+This repository contains the production-ready source code for the official 
+bilingual web platform of Aura Genius Pre-School and Day Care. 
+
+Domain:            https://www.auragenius.in
+Official Email:    info@auragenius.in
+Contact / WA:      +91 9213413298
+Location:          12, Narsinhdham Society, Vasna Diwalipura Road, 
+                   Near Mother School, Opposite Jalaramnagar Society, 
+                   Vadodara - 390021, Gujarat, India.
+
+2. KEY TIMELINES & MILESTONES
+-----------------------------
+* Grand Opening / Campus Inauguration: Sunday, 31st May 2026
+* Official Admissions Launch Date:    Monday, 1st June 2026
+
+
+3. DIRECTORY & FILE STRUCTURE
+-----------------------------
+All web pages are structured under a clean root hierarchy for seamless 
+hosting deployment (e.g., cPanel public_html):
+
+├── index.html            --> Core Homepage (Featuring Owl-Carousel banners)
+├── about.html            --> Vision, Mission & Core Values
+├── classes.html          --> Foundational Playgroup, Nursery, & KG Programs
+├── team.html             --> Profiles of Mentors and Educators
+├── appointment.html      --> Campus Tour Booking & Lead Capture Form
+├── contact.html          --> Address Mapping & Inbound Communications
+├── call-to-action.html   --> Conversion Landing Page Optimization
+├── privacy.html          --> Legal Privacy Policy Statements
+├── terms.html            --> Terms & Conditions Guidelines
+├── copyright.html        --> Intellectual Property Protections
+├── robots.txt            --> Search Engine Crawler Configurations
+└── sitemap.xml           --> Search Engine Indexation Roadmap
+
+Supporting Asset Folders:
+├── css/                  --> Stylesheets (Bootstrap 5 customized)
+├── js/                   --> Frontend Frameworks & i18n Translation Files
+├── img/                  --> Graphic Assets, Icons, and Carousels
+└── lib/                  --> Third-party plugins (Animate, Wow, OwlCarousel)
+
+
+4. PRE-DEPLOYMENT PRODUCTION CHECKLIST
+--------------------------------------
+[ ] VERIFY SEO ASSETS: Ensure 'robots.txt' and 'sitemap.xml' reside explicitly 
+    in the public root directory alongside 'index.html'.
+[ ] INTEGRATION CHECK: Confirm that the floating WhatsApp action widget targets 
+    the active business handler number (9213413298) with proper URL encoding.
+[ ] GOOGLE SEARCH CONSOLE: Submit 'https://www.auragenius.in/sitemap.xml' right 
+    after publishing live to maximize local visibility ahead of the June 1st launch.
+[ ] TRANSLATION FILE (lang-index.js): Verify that all 'data-i18n' attributes map 
+    accurately to the English and Gujarati array configurations.
+
+========================================================================
+Developed and Documented for Aura Genius Production Release - May 2026.
+========================================================================
+
+Author  : Rahul Dandapat

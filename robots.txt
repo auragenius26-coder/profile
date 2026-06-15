@@ -1,0 +1,6 @@
+# Crawl optimization for Aura Genius Pre-School and Day Care
+User-agent: *
+Allow: /
+
+# Sitemaps Location
+Sitemap: https://www.auragenius.in/sitemap.xml
